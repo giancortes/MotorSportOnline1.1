@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">MotorSportOnline</string>
+    <string-array name="talleres">
+        <item>Autoplanet Ovalle</item>
+        <item>Parabrisas UVcristal Ovalle</item>
+        <item>Lubricar</item>
+        <item>Lubricentro NASH CARS</item>
+        <item>Frenos Continental Ovalle</item>
+        <item>Neumáticos AZedan Ovalle</item>
+    </string-array>
+
+    <string-array name="ubicacion">
+        <item>DIRECCIÓN:Benjamin Vicuña Mackenna 1030, Ovalle, Coquimbo</item>
+        <item>DIRECCIÓN:El Mirador 275, Ovalle, Coquimbo</item>
+        <item>DIRECCIÓN:Ariztía Oriente 911, Ovalle, Coquimbo</item>
+        <item>DIRECCIÓN:Aristía Oriente 967, Ovalle, Coquimbo</item>
+        <item>DIRECCIÓN:Avda. Dvid Perry 269, Ovalle, Coquimbo</item>
+        <item>DIRECCIÓN:Maestranza 397, Ovalle, Coquimbo</item>
+    </string-array>
+
+    <string-array name="horario">
+        <item>
+              HORARIO:
+              lunes	    10:00–19:00
+              martes	10:00–19:00
+              miércoles	10:00–19:00
+              jueves	10:00–19:00
+              viernes	10:00–19:00
+              sábado	10:00–19:00
+              domingo	11:00-19:00
+        </item>
+        <item>
+              HORARIO:
+              lunes	    9:00–18:00
+              martes	9:00–18:00
+              miércoles	9:00–18:00
+              jueves	9:00–18:00
+              viernes	9:00–18:00
+              sábado	9:00–14:00
+              domingo	CERRADO
+        </item>
+        <item>
+              HORARIO:
+              lunes	    9:00–13:00, 14:30–18:00
+              martes	9:00–13:00, 14:30–18:00
+              miércoles	9:00–13:00, 14:30–18:00
+              jueves	9:00–13:00, 14:30–18:00
+              viernes	9:00–13:00, 14:30–18:00
+              sábado	9:00–13:30
+              domingo	CERRADO
+        </item>
+        <item>
+              HORARIO:
+              lunes	    8:30–13:00, 15:00–18:30
+              martes	8:30–13:00, 15:00–18:30
+              miércoles	8:30–13:00, 15:00–18:30
+              jueves	8:30–13:00, 15:00–18:30
+              viernes	8:30–13:00, 15:00–18:30
+              sábado	8:30–13:00, 15:00–18:00
+              domingo	CERRADO
+        </item>
+        <item>
+              HORARIO:
+              lunes	    9:00–18:00
+              martes	9:00–18:00
+              miércoles	9:00–18:00
+              jueves	9:00–18:00
+              viernes	9:00–18:00
+              sábado	9:00–14:00
+              domingo	CERRADO
+        </item>
+        <item>
+              HORARIO:
+              lunes	    9:00–19:00
+              martes	9:00–19:00
+              miércoles	9:00–19:00
+              jueves	9:00–19:00
+              viernes	9:00–19:00
+              sábado	9:00–14:00
+              domingo	CERRADO
+        </item>
+    </string-array>
+
+    <string-array name="tipo_reparacion">
+        <item>Centro Comercial</item>
+        <item>Tienda De Respuesto Para Automóviles</item>
+        <item>Tienda De Neumáticos</item>
+        <item>Cambio De Aceite-Accesorios</item>
+        <item>Taller De Reparacion Automóviles</item>
+        <item>Tienda De Neumáticos</item>
+    </string-array>
+
+    <string-array name="Contacto">
+        <item>(2) 2550 3427</item>
+        <item>(53) 247 1773</item>
+        <item>9 8548 7592</item>
+        <item>9 9912 0930</item>
+        <item>9 91151 3112</item>
+        <item>600 583 7600</item>
+    </string-array>
+</resources>
