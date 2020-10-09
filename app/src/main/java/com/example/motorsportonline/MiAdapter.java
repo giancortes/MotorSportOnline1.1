@@ -60,7 +60,7 @@ public class MiAdapter extends RecyclerView.Adapter<MiAdapter.MiViewHolder> {
             ho = itemView.findViewById(R.id.horario);
             ti = itemView.findViewById(R.id.tipo_reparacion);
             co = itemView.findViewById(R.id.contacto);
-            im = itemView.findViewById(R.id.imagen);
+            im = itemView.findViewById(R.id.miimagen);
         }
     }
 }
